@@ -4,7 +4,7 @@
 The Lazarus creates the stairs by using the falling boxes. If the Lazarus reaches to the stop sign, the next level is rendered.
 The game has two levels and each level has a different map and difficulty. The Lazarus dies if a box falls on top of it.
 
-![lazarus_level1](https://github.com/richamirashi/Lazarus/tree/master/resources)
+![lazarus_level1](https://github.com/richamirashi/Lazarus/blob/master/resources/lazarus_level1.JPG)
 
 ## Framework:
 - Java
